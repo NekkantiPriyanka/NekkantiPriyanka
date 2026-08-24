@@ -1,64 +1,78 @@
-# 👋 <strong>Hi, I'm Priyanka Nekkanti</strong>
+<h1 align="center">👋 Hi, I'm Priyanka Nekkanti</h1>
 
-## 💫 <strong>About Me</strong>
+<h2 align="center">B.Tech CSE Student | Python Developer | Machine Learning</h2>
 
-### <strong>B.Tech CSE Student | Python Developer | Machine Learning</strong>
+<h2>💫 About Me</h2>
 
-<strong>I'm a Computer Science student at SR University, Warangal, interested in software development, problem solving, and building practical applications.</strong>
+<p>
+<strong>
+I'm a Computer Science student at SR University, Warangal, interested in software development, problem solving, and building practical applications.
+</strong>
+</p>
 
-## 💻 <strong>Skills</strong>
+<h2>💻 Skills</h2>
 
-### <strong>Languages</strong>
-<strong>C, Python, Java, SQL</strong>
+<h3>Languages</h3>
+<p><strong>C, Python, Java, SQL</strong></p>
 
-### <strong>Web Development</strong>
-<strong>HTML, CSS, JavaScript</strong>
+<h3>Web Development</h3>
+<p><strong>HTML, CSS, JavaScript</strong></p>
 
-### <strong>Backend & Database</strong>
-<strong>Node.js, Express.js, MongoDB</strong>
+<h3>Backend & Database</h3>
+<p><strong>Node.js, Express.js, MongoDB</strong></p>
 
-### <strong>Tools</strong>
-<strong>Git, GitHub, VS Code</strong>
+<h3>Tools</h3>
+<p><strong>Git, GitHub, VS Code</strong></p>
 
-### <strong>Cloud</strong>
-<strong>AWS</strong>
+<h3>Cloud</h3>
+<p><strong>AWS</strong></p>
 
-## 🚀 <strong>Featured Projects</strong>
+<h2>🚀 Featured Projects</h2>
 
-### <strong>Calm Path</strong>
-<strong>Web-based emotion tracking and self-regulation platform.</strong>
+<h3>Calm Path</h3>
+<p><strong>Web-based emotion tracking and self-regulation platform.</strong></p>
 
-### <strong>Smart Timetable Scheduler</strong>
-<strong>Web application for academic timetable management.</strong>
+<h3>Smart Timetable Scheduler</h3>
+<p><strong>Web application for academic timetable management.</strong></p>
 
-## 🧩 <strong>Coding</strong>
+<h2>🧩 Coding</h2>
 
-<strong>LeetCode : Solving Data Structures & Algorithms problems</strong>
+<p><strong>LeetCode : Solving Data Structures & Algorithms problems</strong></p>
 
-<strong>GitHub : Projects, coding practice, and learning progress</strong>
+<p><strong>GitHub : Projects, coding practice, and learning progress</strong></p>
 
-## 🏆 <strong>Achievements</strong>
+<h2>🏆 Achievements</h2>
 
-<strong>• Smart India Hackathon Participant</strong>
+<p><strong>• Smart India Hackathon Participant</strong></p>
+<p><strong>• AWS & Microsoft Azure learning programs</strong></p>
+<p><strong>• Docker & AI Agent certifications</strong></p>
 
-<strong>• AWS & Microsoft Azure learning programs</strong>
+<h2>📫 Connect</h2>
 
-<strong>• Docker & AI Agent certifications</strong>
+<p>
+<strong>LinkedIn :</strong>
+https://www.linkedin.com/in/priyanka-nekkanti-814320333/
+</p>
 
-## 📫 <strong>Connect</strong>
+<p>
+<strong>LeetCode :</strong>
+https://leetcode.com/u/NekkantiPriyanka/
+</p>
 
-<strong>LinkedIn : https://www.linkedin.com/in/priyanka-nekkanti-814320333/</strong>
+<p>
+<strong>Email :</strong>
+priyankanekkanti1810@gmail.com
+</p>
 
-<strong>LeetCode : https://leetcode.com/u/NekkantiPriyanka/</strong>
 
-<strong>Email : priyankanekkanti1810@gmail.com</strong>
+<h1>💻 Tech Stack</h1>
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 💻 <strong>Tech Stack</strong>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 <strong>GitHub Stats</strong>
+<h1>📊 GitHub Stats</h1>
 
 ![](https://github-readme-stats.shion.dev/api?username=NekkantiPriyanka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -69,5 +83,3 @@
 ---
 
 [![](https://komarev.com/ghpvc/?username=NekkantiPriyanka&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
